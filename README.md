@@ -1,1 +1,1 @@
-My first readme, edited by Titto
+My first readme, edited by Titto Obi-Osaji
